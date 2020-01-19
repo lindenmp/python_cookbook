@@ -1,2 +1,5 @@
 # python_cookbook
-Place to put notebooks with some simple chunk of python code that run analyses I commonly use..
+This repository stores a handful of notebooks containing simply blueprints for analyses I often do.
+
+1. `GPR.ipynb`
+	- Perform gaussian process regression in training set, estimate deviations in test set, and examine deviations.
