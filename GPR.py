@@ -142,6 +142,8 @@ Xtez = (Xte - mX) / sX
 Ytez = (Yte - mY) / sY
 
 
+# Predict test data
+
 # In[13]:
 
 
